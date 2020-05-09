@@ -1,3 +1,4 @@
+#BOJ 11047
 x = input().split(" ")
 N = int(x[0])  #동전의 종류
 K = int(x[1])  #가치의 합
